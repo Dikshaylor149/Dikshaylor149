@@ -1,17 +1,21 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Training+Models...;Breaking+Problems...;Building+Intelligence...;Welcome+to+my+mind+🧠" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=333333&center=true&vCenter=true&width=800&lines=Training+Models...;Breaking+Problems...;Building+Intelligence...;Welcome+to+my+mind+🧠" />
 </p>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="400"/>
+  <img src="https://raw.githubusercontent.com/Dikshaylor149/Dikshaylor149/main/1.jpeg" width="160"/>
+  <img src="https://raw.githubusercontent.com/Dikshaylor149/Dikshaylor149/main/2.jpeg" width="160"/>
+  <img src="https://raw.githubusercontent.com/Dikshaylor149/Dikshaylor149/main/3.jpeg" width="160"/>
+  <img src="https://raw.githubusercontent.com/Dikshaylor149/Dikshaylor149/main/4.jpeg" width="160"/>
 </p>
-Hi there 👋
 
-🔭 I’m currently working on building intelligent systems using Python  
-🌱 I’m currently learning advanced concepts in AI, Machine Learning, Deep Learning & NLP  
-👯 I’m looking to collaborate on AI/ML projects and real-world problem solving  
-🤔 I’m looking for help with optimizing models and exploring cutting-edge AI techniques  
-💬 Ask me about AI, ML, NLP… or crime thriller mysteries 🕵️‍♀️  
+## Hey, I'm Diksha 👋
+
+🔭 I’m currently building intelligent systems using Python  
+🌱 Diving deep into AI, Machine Learning, Deep Learning & NLP  
+👯 Open to collaborating on impactful AI/ML projects  
+🤔 Exploring optimization & cutting-edge AI techniques  
+💬 Ask me about AI… or crime thriller mysteries 🕵️‍♀️  
 📫 How to reach me: https://www.linkedin.com/in/diksha-tank194  
 😄 Pronouns: She/Her  
 ⚡ Fun fact: I built my first data science project at the age of 16 🚀  
@@ -20,9 +24,13 @@ Hi there 👋
 
 🧠 Turning data into decisions with AI  
 🐍 Python enthusiast building in ML, DL & NLP  
-🚀 Exploring how machines learn, think, and understand language
+🚀 Exploring how machines learn, think, and understand language  
 
- ⚙️ Favorite Tech Stack
+---
 
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+## ⚙️ My Favorites
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dikshaylor149/Dikshaylor149/main/5.jpeg" width="160"/>
+  <img src="https://raw.githubusercontent.com/Dikshaylor149/Dikshaylor149/main/6.jpeg" width="160"/>
+</p>
