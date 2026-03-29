@@ -22,11 +22,7 @@ Hi there 👋
 🐍 Python enthusiast building in ML, DL & NLP  
 🚀 Exploring how machines learn, think, and understand language
 
- ⚙️ Tech Stack
+ ⚙️ Favorite Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-000?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-000?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-000?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-000?style=for-the-badge&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-000?style=for-the-badge&logo=pytorch)
+
