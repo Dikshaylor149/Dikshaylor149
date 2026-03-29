@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Training+Models...;Breaking+Problems...;Building+Intelligence...;Welcome+to+my+mind+🧠" />
+
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400"/>
+</p>
 ## Hi there 👋
 
 🔭 I’m currently working on building intelligent systems using Python  
