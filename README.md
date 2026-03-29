@@ -22,16 +22,7 @@ Hi there 👋
 🐍 Python enthusiast building in ML, DL & NLP  
 🚀 Exploring how machines learn, think, and understand language
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dikshaylor149&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-## ⚙️ Tech Stack
+ ⚙️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-000?style=for-the-badge)
